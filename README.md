@@ -21,7 +21,7 @@ Learning Machine Learning with Python,Octave. Some Java, C/C++, DSA. A Constant 
 
 ### How to reach me: ...📫
 - [LinkedIn](https://www.linkedin.com/in/piyushchandra357/)
-- [E-Mail](piyush.chandra2013@gmail.com)
+- [E-Mail](mailto:mailtopiyush.chandra2013@gmail.com?subject=GitHub)
 
 ### Fun fact: ...⚡
 Paulo Coelho said:
