@@ -16,7 +16,7 @@ Learning Machine Learning with Python,Octave. Some Java, C/C++, DSA. A Constant 
 - Books to read about life, self exploration
 - Books to read for financial education
 - Recommendations about great Music
-- Tech stuff expect "please fix my computer" or "how to install stuff/windows/linux"
+- Tech stuff except "please fix my computer" or "how to install stuff/windows/linux"
 - **The Stock Market** :wink:
 
 ### How to reach me: ...📫
